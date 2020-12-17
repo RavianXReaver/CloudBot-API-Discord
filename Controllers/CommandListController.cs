@@ -8,13 +8,15 @@ using Microsoft.Extensions.Logging;
 namespace DiscordBotAPI.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("commandlist/getlist")]
     public class CommandListController : ControllerBase
     { 
         [HttpGet]
         public IEnumerable<Provider> Get()
         {
-            
+            List<Provider> list = new List<Provider>();
+
+            return list;
         }
     }
 }
