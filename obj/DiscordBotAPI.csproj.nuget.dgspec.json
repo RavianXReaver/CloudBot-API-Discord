@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ravian/VS_Code/DiscordBotAPI/DiscordBotAPI.csproj": {}
+    "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/DiscordBotAPI.csproj": {}
   },
   "projects": {
-    "/home/ravian/VS_Code/DiscordBotAPI/DiscordBotAPI.csproj": {
+    "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/DiscordBotAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ravian/VS_Code/DiscordBotAPI/DiscordBotAPI.csproj",
+        "projectUniqueName": "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/DiscordBotAPI.csproj",
         "projectName": "DiscordBotAPI",
-        "projectPath": "/home/ravian/VS_Code/DiscordBotAPI/DiscordBotAPI.csproj",
+        "projectPath": "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/DiscordBotAPI.csproj",
         "packagesPath": "/home/ravian/.nuget/packages/",
-        "outputPath": "/home/ravian/VS_Code/DiscordBotAPI/obj/",
+        "outputPath": "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ravian/.nuget/NuGet/NuGet.Config"
@@ -38,7 +38,7 @@
           "dependencies": {
             "CassandraCSharpDriver": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[3.16.1, )"
             }
           },
           "imports": [
