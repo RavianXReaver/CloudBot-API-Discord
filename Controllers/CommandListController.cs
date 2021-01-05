@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace DiscordBotAPI.Controllers
+namespace CloudBotAPI.Controllers
 {
     [ApiController]
-    [Route("commandlist/getlist")]
+    [Route("api/commandlist/getlist")]
     public class CommandListController : ControllerBase
     { 
         [HttpGet]

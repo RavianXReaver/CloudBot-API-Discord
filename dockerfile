@@ -8,4 +8,4 @@ RUN dotnet publish -c Release -o out
 
 WORKDIR /app
 
-ENTRYPOINT ["dotnet", "run", "DiscordBotAPI.dll"]
+ENTRYPOINT ["dotnet", "run", "CloudBotAPI.dll"]

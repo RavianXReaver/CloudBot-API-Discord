@@ -3541,11 +3541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/DiscordBotAPI.csproj",
-      "projectName": "DiscordBotAPI",
-      "projectPath": "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/DiscordBotAPI.csproj",
+      "projectUniqueName": "/home/ravian/VS_Code/DiscordBotApp/CloudBotAPI/CloudBotAPI.csproj",
+      "projectName": "CloudBotAPI",
+      "projectPath": "/home/ravian/VS_Code/DiscordBotApp/CloudBotAPI/CloudBotAPI.csproj",
       "packagesPath": "/home/ravian/.nuget/packages/",
-      "outputPath": "/home/ravian/VS_Code/DiscordBotApp/DiscordBotAPI/obj/",
+      "outputPath": "/home/ravian/VS_Code/DiscordBotApp/CloudBotAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ravian/.nuget/NuGet/NuGet.Config"
